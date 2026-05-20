@@ -1,3 +1,6 @@
+<img width="1693" height="929" alt="image" src="https://github.com/user-attachments/assets/72ff7463-5d32-418f-acad-df183778db5c" />
+
+
 # ai-sec-rag-lab
 
 A multi-tenant retrieval-augmented chatbot built from raw primitives to study
