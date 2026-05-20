@@ -1,0 +1,17 @@
+[project]
+name = "ai-sec-rag-lab"
+version = "0.1.0"
+description = "Multi-tenant RAG security lab"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.100.0",
+    "pgvector>=0.4.2",
+    "psycopg[binary]>=3.3.4",
+    "python-dotenv>=1.2.2",
+    "sentence-transformers>=5.4.1",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "ruff>=0.15.12",
+]
