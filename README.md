@@ -21,6 +21,10 @@ A Python application that:
 Built deliberately from raw API calls — no LangChain, no LlamaIndex — so
 that every trust boundary in the system is visible and attackable.
 
+## Pipeline overview
+
+![RAG pipeline diagram](data/corpus/public/rag-pipeline.png)
+
 ## Why this exists
 
 The project follows a "build, break, defend" arc:
